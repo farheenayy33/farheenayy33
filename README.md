@@ -57,11 +57,20 @@
 
 ###
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farheenayy33&theme=dracula" />
-<img align="center" height="160em" src="https://i.imgflip.com/65efzo.gif" />
-  
-</div>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farheenayy33&theme=dracula" height="180"/>
+    </td>
+
+    <td>
+      <img src="https://i.imgflip.com/65efzo.gif" height="180"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 ###
 
 <picture>
