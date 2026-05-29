@@ -65,7 +65,7 @@
     </td>
 
     <td>
-      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" height="180"/>
+   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/profile-gif.gif" height="180"/>
     </td>
   </tr>
 </table>
