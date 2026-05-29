@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farheenayy33&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=farheenayy33&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com?user=farheenayy33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farheenayy33&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
