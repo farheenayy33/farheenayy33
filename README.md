@@ -52,12 +52,15 @@
 <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farheenayy33&theme=dracula" />
   <img src="https://streak-stats.demolab.com?user=farheenayy33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160em" alt="streak graph" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farheenayy33&theme=dracula" />
+
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farheenayy33&theme=dracula" />
+<img align="center" height="160em" src="https://i.imgflip.com/65efzo.gif" />
+  
+</div>
 
 ###
 
