@@ -65,7 +65,7 @@
     </td>
 
     <td>
-      <img src="https://i.imgflip.com/65efzo.gif" height="180"/>
+      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" height="180"/>
     </td>
   </tr>
 </table>
