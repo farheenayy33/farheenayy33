@@ -63,15 +63,11 @@
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farheenayy33&theme=dracula" height="180"/>
     </td>
-
-    <td>
-   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/profile-gif.gif" height="180"/>
-    </td>
   </tr>
 </table>
 
 </div>
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farheenayy33/farheenayy33/snake-output/snake-dark.svg" />
