@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Farheen Laraib <br>I'm a software engineer</h1>
+<h1 align="center">Hi 👋! My name is Farheen Laraib <br>A passionate student of Software Engineering</h1>
 
 ###
 
