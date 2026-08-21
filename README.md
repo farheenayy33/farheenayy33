@@ -5,7 +5,7 @@
   <!-- <img src="YOUR_CODING_GIRL_GIF_URL" width="45"> -->
 </h1>
 <h3 align="center">
-Frontend Developer • Software Engineering Student • React & TypeScript Enthusiast
+Frontend Developer • Software Engineering Student • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
