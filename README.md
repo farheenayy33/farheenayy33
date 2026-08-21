@@ -1,5 +1,9 @@
-# <h1 align="center">Hi 👋, I'm Farheen Laraib</h1>
-
+<h1 align="center">
+  Hi
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  , I'm Farheen Laraib
+  <!-- <img src="YOUR_CODING_GIRL_GIF_URL" width="45"> -->
+</h1>
 <h3 align="center">
 Frontend Developer • Software Engineering Student • React & TypeScript Enthusiast
 </h3>
