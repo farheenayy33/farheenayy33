@@ -1,22 +1,35 @@
+<table width="100%">
+<tr>
+<td width="55%" align="center" valign="middle">
+
 <h1 align="center">
-  Hi
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-  , I'm Farheen Laraib
-  <!-- <img src="YOUR_CODING_GIRL_GIF_URL" width="45"> -->
+Hi
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+, I'm Farheen Laraib
 </h1>
+
 <h3 align="center">
 Frontend Developer • Software Engineering Student • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Python+%7C+Flask+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=farheenayy33&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/farheenayy33?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/farheenayy33?style=for-the-badge&logo=github" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Python+%7C+Flask+Developer;Always+Learning+New+Technologies" alt="Typing SVG">
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=farheenayy33&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/farheenayy33?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/stars/farheenayy33?style=for-the-badge&logo=github">
+</p>
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/farheenayy33/farheenayy33/main/farheen%20coding.gif" width="420" height="420" alt="Farheen_coding animation">
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
