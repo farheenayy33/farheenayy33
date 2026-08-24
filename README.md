@@ -36,7 +36,6 @@ Frontend Developer • Software Engineering Student • Machine Learning Enthusi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/seaborn" height="30" alt="Seaborn" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kaggle" height="30" alt="Kaggle" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda" />&nbsp;&nbsp;
