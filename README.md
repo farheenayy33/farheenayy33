@@ -9,7 +9,7 @@ Hi
 </h1>
 
 <h3 align="center">
-Frontend Developer • Software Engineering Student • Machine Learning Enthusiast
+Mern Stack Developer • Software Engineering Student • Machine Learning Engineer •Deep Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -37,7 +37,9 @@ Frontend Developer • Software Engineering Student • Machine Learning Enthusi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="30" alt="Keras" />
   <img src="https://cdn.simpleicons.org/kaggle" height="30" alt="Kaggle" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="HTML5" />&nbsp;&nbsp;
@@ -53,6 +55,8 @@ Frontend Developer • Software Engineering Student • Machine Learning Enthusi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="Express" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="30" alt="Mongoose" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="30" alt="TanStack Query" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="30" alt="JWT" />
   <img src="https://cdn.simpleicons.org/ejs" height="30" alt="EJS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="30" alt="Postman" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />&nbsp;&nbsp;
