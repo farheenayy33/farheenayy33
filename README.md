@@ -12,10 +12,10 @@ Hi
 Mern Stack Developer • Software Engineering Student • Machine Learning Engineer •Deep Learning Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Python+%7C+Flask+Developer;Always+Learning+New+Technologies" alt="Typing SVG">
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Software+Engineering+Student;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Exploring+CNNs+%7C+ANNs+%7C+RNNs;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=farheenayy33&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/farheenayy33?style=for-the-badge&logo=github">
